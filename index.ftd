@@ -41,8 +41,8 @@ cta-item2-link: /portfolio/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+title: Hello, I live in Indore & I am learning Fastn.
+link: https://github.com/IshitwaRathore
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -69,15 +69,15 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Ishitwa Rathore,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Data
+secondTitle: Analyst
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Developer.
 
 -- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -91,11 +91,11 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:IshitwaRathorecloud@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: meet.google.com
 isNewTab: true
 
 -- end: ftd.row
@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/ishitwa-rathore-03811424a/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -116,15 +116,15 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/IshitwaRathore
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/Ishitwa.singh
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:IshitwaRathorecloud@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
